@@ -31,7 +31,6 @@ function check() {
      };
 
      e.preventDefault();
-
    });
  });
 }
